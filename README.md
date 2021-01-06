@@ -1,2 +1,2 @@
 # distributed-hash-table
-Stonks.
+A very simple implementation of a distributed key-value storage system. 
